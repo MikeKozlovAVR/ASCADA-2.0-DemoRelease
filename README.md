@@ -9,7 +9,7 @@ Copyright (C) MikeKozlovAVR Kozlov M.
 
 
   EXAMPLE of a simple Data Pack transmitted via COM-port to ASCADA:
-  "0&100*"           - in this example data pack we transmitted int/float value "100" to Tag ID=0, "&" - sympol-splitter, "*" - symbol End of data pack;
+  "0&100*"           - in this example data pack we transmitted int/float value "100" to Tag ID=0, "&" - sympol-splitter, " * " - symbol End of data pack;
   "19&Hello World*"  - in this example data pack we transmitted string value "Hello World" to Tag ID=19;
   "1&1*"             - in this example data pack we transmitted bool value "true" to Tag ID=1;
   "1&0*"             - in this example data pack we transmitted bool value "false" to Tag ID=1;
