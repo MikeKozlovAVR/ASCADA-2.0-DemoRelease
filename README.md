@@ -1,5 +1,6 @@
 # ASCADA-2.0-DemoRelease
-The ASCADA is designed for quick and easy design of systems for visual control of process parameters 
+The ASCADA is a programm based on C# Winforms (.Net 3.5 for more compatibility).
+ASCADA programm designed for quick and easy design of systems for visual control of process parameters 
 transmitted from microcontrollers or industrial controllers using serial ports.
 It is used in home solutions for displaying and automating various parameters, 
 as well as when debugging microcontroller software (for simple visual control of setting parameters).
